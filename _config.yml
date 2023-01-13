@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min-Hsuan Yeh"
+title                    : "Min-Hsuan (Samuel) Yeh"
 title_separator          : "-"
-name                     : &name "Min-Hsuan Yeh"
-description              : &description "Research Assistant at the Academia Sinica"
+name                     : &name "Min-Hsuan (Samuel) Yeh"
+description              : &description "Master's student at UMass Amherst"
 url                      : https://mhyeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhyeh/mhyeh.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min-Hsuan Yeh"
+  name             : "Min-Hsuan (Samuel) Yeh"
   avatar           : "Image from iOS.jpeg"
-  bio              : "Research Assistant in <a href='https://academiasinicanlplab.github.io/'>NLPSA</a> at the Academia Sinica. I study Natural Language Processing."
-  location         : "Taipei, Taiwan"
-  employer         : "Academia Sinica"
+  bio              : "Master's student studying in Computer Science at UMass Amherst."
+  location         : "MA, United States"
+  employer         : "UMass Amherst"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "minhsuan.yeh@gmail.com"
