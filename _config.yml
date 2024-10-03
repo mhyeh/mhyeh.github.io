@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Min-Hsuan (Samuel) Yeh"
 title_separator          : "-"
 name                     : &name "Min-Hsuan (Samuel) Yeh"
-description              : &description "Master's student at UMass Amherst"
+description              : &description "CS Ph.D. student at UW-Madison"
 url                      : https://mhyeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhyeh/mhyeh.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Min-Hsuan (Samuel) Yeh"
   avatar           : "Image from iOS.jpeg"
-  bio              : "Master's student studying in Computer Science at UMass Amherst."
-  location         : "MA, United States"
-  employer         : "UMass Amherst"
+  bio              : "CS Ph.D. student at UW-Madison."
+  location         : "WI, United States"
+  employer         : "UW-Madison"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "minhsuan.yeh@gmail.com"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
