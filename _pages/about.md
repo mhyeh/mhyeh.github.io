@@ -49,7 +49,7 @@ CKAIA 2023 -->
 
 ## Preprints
 - **How Reliable Is Human Feedback For Aligning Large Language Models?** \\
-<!-- <a href="https://arxiv.org/pdf/2407.17491" style="color: #009B8B; text-decoration: none;">[paper]</a> \\ -->
+<a href="https://arxiv.org/pdf/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Min-Hsuan Yeh</u>, Leitian Tao, Jeffrey Wang, Xuefeng Du, Yixuan Li
 
 ## Education
