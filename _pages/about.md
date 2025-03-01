@@ -50,7 +50,7 @@ CKAIA 2023 -->
  -->
 
 ## Preprints
-- **Can Your Uncertainty Scores Detect Hallucinated Entity??** \\
+- **Can Your Uncertainty Scores Detect Hallucinated Entity?** \\
 <a href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, Yixuan Li
 
