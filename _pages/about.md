@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a first year CS Ph.D. student at UW-Madison advised by Prof. [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas/) as a Master's student at UMass-Amherst, and with Dr. [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) as a research assistant at the Natural Language Processing and Sentiment Analysis [(NLPSA)](https://academiasinicanlplab.github.io/) Lab in Taiwan. 
+Hi! I'm a first year CS Ph.D. student at UW-Madison advised by Prof. [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). My research interests are reliable machine learning and hallucination detection.
+
+I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas/) as a Master's student at UMass-Amherst, and with Dr. [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) as a research assistant at the Natural Language Processing and Sentiment Analysis [(NLPSA)](https://academiasinicanlplab.github.io/) Lab in Taiwan. 
 
 ## Publication
 
@@ -48,6 +50,10 @@ CKAIA 2023 -->
  -->
 
 ## Preprints
+- **Can Your Uncertainty Scores Detect Hallucinated Entity??** \\
+<a href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, Yixuan Li
+
 - **How Reliable Is Human Feedback For Aligning Large Language Models?** \\
 <a href="https://arxiv.org/pdf/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Min-Hsuan Yeh</u>, Leitian Tao, Jeffrey Wang, Xuefeng Du, Yixuan Li
