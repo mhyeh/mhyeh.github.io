@@ -17,24 +17,24 @@ I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
 - **COCOLOFA: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds** \\
 <u>Min-Hsuan Yeh</u>, Ruyuan Wan, Ting-Hao 'Kenneth' Huang \\
-<a href="https://aclanthology.org/2024.emnlp-main.39/" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/Crowd-AI-Lab/cocolofa/" style="color: #009B8B; text-decoration: none;">[dataset]</a>\\
+<a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2024.emnlp-main.39/" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Crowd-AI-Lab/cocolofa/" style="color: #009B8B; text-decoration: none;">[dataset]</a>\\
 <!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
 <span style="color:darkred">**EMNLP**</span> 2024
 
 - **Analyzing the Relationship Between Difference and Ratio-Based Fairness Metrics** \\
 <u>Min-Hsuan Yeh</u>, Blossom Metevier, Austin Hoag, and Philip Thomas \\
-<a href="https://dl.acm.org/doi/pdf/10.1145/3630106.3658922" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a target="_blank" rel="noopener noreferrer" href="https://dl.acm.org/doi/pdf/10.1145/3630106.3658922" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**FAccT**</span> 2024
 <!-- -- <span style="color:red">_Oral presentation_</span> -->
 
 - **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
 <u>Min-Hsuan Yeh</u>, Vincent Chen, Ting-Hao 'Kenneth' Huang, and Lun-Wei Ku \\
-<a href="https://aclanthology.org/2022.emnlp-main.19.pdf" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/AcademiaSinicaNLPLab/Multi-VQG" style="color: #009B8B; text-decoration: none;">[dataset]</a> \\
+<a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2022.emnlp-main.19.pdf" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/AcademiaSinicaNLPLab/Multi-VQG" style="color: #009B8B; text-decoration: none;">[dataset]</a> \\
 <span style="color:darkred">**EMNLP**</span> 2022
 
 - **Lying Through One’s Teeth: A Study on Verbal Leakage Cues** \\
 <u>Min-Hsuan Yeh</u> and Lun-Wei Ku \\
-<a href="https://aclanthology.org/2021.emnlp-main.370.pdf" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2021.emnlp-main.370.pdf" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**EMNLP**</span> 2021
 
 
@@ -52,11 +52,11 @@ CKAIA 2023 -->
 
 ## Preprints
 - **Can Your Uncertainty Scores Detect Hallucinated Entity?** \\
-<a href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, Yixuan Li
 
 - **How Reliable Is Human Feedback For Aligning Large Language Models?** \\
-<a href="https://arxiv.org/pdf/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Min-Hsuan Yeh</u>, Leitian Tao, Jeffrey Wang, Xuefeng Du, Yixuan Li
 
 ## Education
