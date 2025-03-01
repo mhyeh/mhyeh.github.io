@@ -17,6 +17,7 @@ I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
 - **COCOLOFA: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds** \\
 <u>Min-Hsuan Yeh</u>, Ruyuan Wan, Ting-Hao 'Kenneth' Huang \\
+<a href="https://aclanthology.org/2024.emnlp-main.39/" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/Crowd-AI-Lab/cocolofa/" style="color: #009B8B; text-decoration: none;">[dataset]</a>\\
 <!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
 <span style="color:darkred">**EMNLP**</span> 2024
 
