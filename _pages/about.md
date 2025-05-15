@@ -15,6 +15,18 @@ I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas
 ## Publication
 
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
+- **Position: Challenges and Future Directions of Data-Centric {AI} Alignment** \\
+<u>Min-Hsuan Yeh</u>, Jeffrey Wang, Xuefeng Du, Seongheon Park, Leitian Tao, Shawn Im, Yixuan Li \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
+<!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
+<span style="color:darkred">**ICML**</span> 2025 Position Track
+
+- **How to Steer LLM Latents for Hallucination Detection?** \\
+Seongheon Park, Xuefeng Du, <u>Min-Hsuan Yeh</u>, Haobo Wang, Yixuan Li \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2503.01917" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
+<!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
+<span style="color:darkred">**ICML**</span> 2025
+
 - **COCOLOFA: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds** \\
 <u>Min-Hsuan Yeh</u>, Ruyuan Wan, Ting-Hao 'Kenneth' Huang \\
 <a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2024.emnlp-main.39/" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Crowd-AI-Lab/cocolofa/" style="color: #009B8B; text-decoration: none;">[dataset]</a>\\
@@ -51,12 +63,18 @@ CKAIA 2023 -->
  -->
 
 ## Preprints
+- **MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems** \\
+Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Yixuan Li
+
+- **Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment** \\
+<u>Min-Hsuan Yeh</u>, Yixuan Li
+
 - **Can Your Uncertainty Scores Detect Hallucinated Entity?** \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]\\
 <u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, Yixuan Li
 
 - **How Reliable Is Human Feedback For Aligning Large Language Models?** \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2410.01957v1" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/deeplearning-wisc/HH-Clean" style="color: #009B8B; text-decoration: none;">[dataset]\\
 <u>Min-Hsuan Yeh</u>, Leitian Tao, Jeffrey Wang, Xuefeng Du, Yixuan Li
 
 ## Education
