@@ -15,7 +15,7 @@ I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas
 ## Publication
 
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
-- **Position: Challenges and Future Directions of Data-Centric {AI} Alignment** \\
+- **Position: Challenges and Future Directions of Data-Centric AI Alignment** \\
 <u>Min-Hsuan Yeh</u>, Jeffrey Wang, Xuefeng Du, Seongheon Park, Leitian Tao, Shawn Im, Yixuan Li \\
 <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
 <!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
@@ -70,12 +70,12 @@ Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Yixuan Li
 <u>Min-Hsuan Yeh</u>, Yixuan Li
 
 - **Can Your Uncertainty Scores Detect Hallucinated Entity?** \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]\\
-<u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, Yixuan Li
+<u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, Yixuan Li \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> 
 
 - **How Reliable Is Human Feedback For Aligning Large Language Models?** \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2410.01957v1" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/deeplearning-wisc/HH-Clean" style="color: #009B8B; text-decoration: none;">[dataset]\\
-<u>Min-Hsuan Yeh</u>, Leitian Tao, Jeffrey Wang, Xuefeng Du, Yixuan Li
+<u>Min-Hsuan Yeh</u>, Leitian Tao, Jeffrey Wang, Xuefeng Du, Yixuan Li \\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2410.01957v1" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/deeplearning-wisc/HH-Clean" style="color: #009B8B; text-decoration: none;">[dataset]</a> 
 
 ## Education
 - **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
