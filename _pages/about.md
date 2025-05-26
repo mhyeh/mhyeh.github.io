@@ -73,9 +73,6 @@ Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Yixuan Li
 <u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, Yixuan Li \\
 <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> 
 
-- **How Reliable Is Human Feedback For Aligning Large Language Models?** \\
-<u>Min-Hsuan Yeh</u>, Leitian Tao, Jeffrey Wang, Xuefeng Du, Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2410.01957v1" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/deeplearning-wisc/HH-Clean" style="color: #009B8B; text-decoration: none;">[dataset]</a> 
 
 ## Education
 - **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
