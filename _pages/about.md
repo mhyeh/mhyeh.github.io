@@ -65,6 +65,7 @@ CKAIA 2023 -->
 ## Preprints
 - **MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems** \\
 Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Yixuan Li
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2505.18943" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 
 - **Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment** \\
 <u>Min-Hsuan Yeh</u>, Yixuan Li
