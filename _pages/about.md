@@ -54,7 +54,7 @@ Seongheon Park, Xuefeng Du, <u>Min-Hsuan Yeh</u>, Haobo Wang, and Yixuan Li \\
 <span style="color:darkred">**FAccT**</span> 2024
 <!-- -- <span style="color:red">_Oral presentation_</span> -->
 
-- **Language Model-guided Student Performance Prediction with Multimodal Auxiliary Information** \\
+- **Multi-VQG: Generating Engaging Questions for Multiple Images** \\
 <u>Min-Hsuan Yeh</u>, Vincent Chen, Ting-Hao 'Kenneth' Huang, and Lun-Wei Ku \\
 <a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2022.emnlp-main.19.pdf" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/AcademiaSinicaNLPLab/Multi-VQG" style="color: #009B8B; text-decoration: none;">[dataset]</a> \\
 <span style="color:darkred">**EMNLP**</span> 2022
