@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a first year CS Ph.D. student at UW-Madison advised by Prof. [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). My research interests are reliable machine learning and hallucination detection.
+Hi! I'm a second year CS Ph.D. student at UW-Madison advised by Prof. [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). My research interests are reliable machine learning and hallucination detection.
 
-I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas/) as a Master's student at UMass-Amherst, and with Dr. [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) as a research assistant at the Natural Language Processing and Sentiment Analysis [(NLPSA)](https://academiasinicanlplab.github.io/) Lab in Taiwan. 
+I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas/) as a Master's student at UMass-Amherst, and with Dr. [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) as a research assistant at the Natural Language Processing and Sentiment Analysis [(NLPSA)](https://academiasinicanlplab.github.io/) Lab at Academia Sinica, Taiwan. 
 
 ## Publication
 
@@ -19,7 +19,7 @@ I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas
 - **MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems** \\
 Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li
 <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2505.18943" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2025 (Spotlight)
+<span style="color:darkred">**NeurIPS**</span> 2025 **(Spotlight)**
 
 - **Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment** \\
 <u>Min-Hsuan Yeh</u> and Yixuan Li
@@ -89,7 +89,7 @@ Yang Xu, Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Jwala Dhamala, Ousma
 
 ## Education
 - **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
-advisor: Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a> \\
+Advisor: Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a> \\
 Sep. 2024 - Present
 
 - **M.S.** in Computer Science, <a href="https://www.cics.umass.edu/" style="color: #009B8B; text-decoration: none;">**University of Massachusetts-Amherst**</a> \\
@@ -99,10 +99,12 @@ Sep. 2022 - May 2024
 Sep. 2016 - Jan. 2020
 
 ## Experience
+* ***W.J. Cody Associates***, **Argonne National Laboratory** \\
+Supervisor: Dr. <a href="https://crowd.ist.psu.edu/index.html" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, May. 2025 - Jul. 2025
 * ***Research Assistant Intern***, <a href="https://crowd.ist.psu.edu/crowd-ai-lab.html" style="color: #009B8B; text-decoration: none;">**CrowdAI Lab**</a> \\
 Advisor: Prof. <a href="https://crowd.ist.psu.edu/index.html" style="color: #009B8B; text-decoration:none">**Ting-Hao 'Kenneth' Huang**</a>, Jun. 2023 - Feb. 2024
 * ***Research Assistant***, <a href="https://academiasinicanlplab.github.io/" style="color: #009B8B; text-decoration: none;">**NLPSA**</a>, **Academia Sinica** \\
 Advisor: Prof. <a href="https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html" style="color: #009B8B; text-decoration:none">**Lun-Wei Ku**</a>, May 2020 - Jul. 2022
 
 ## Academic Services 
-- Conference Reviewer: COLING'25, ACL'24, COLING'24
+- Conference Reviewer: COLING'25, ICLR'25, ACL'25, ACL'24, COLING'24
