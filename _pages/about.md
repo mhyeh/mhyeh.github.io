@@ -100,7 +100,7 @@ Sep. 2016 - Jan. 2020
 
 ## Experience
 * ***W.J. Cody Associates***, **Argonne National Laboratory** \\
-Supervisor: Dr. <a href="https://crowd.ist.psu.edu/index.html" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, May. 2025 - Jul. 2025
+Supervisor: Dr. <a href="https://www.anl.gov/profile/tanwi-mallick" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, May. 2025 - Jul. 2025
 * ***Research Assistant Intern***, <a href="https://crowd.ist.psu.edu/crowd-ai-lab.html" style="color: #009B8B; text-decoration: none;">**CrowdAI Lab**</a> \\
 Advisor: Prof. <a href="https://crowd.ist.psu.edu/index.html" style="color: #009B8B; text-decoration:none">**Ting-Hao 'Kenneth' Huang**</a>, Jun. 2023 - Feb. 2024
 * ***Research Assistant***, <a href="https://academiasinicanlplab.github.io/" style="color: #009B8B; text-decoration: none;">**NLPSA**</a>, **Academia Sinica** \\
