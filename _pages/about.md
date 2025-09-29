@@ -27,18 +27,18 @@ Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li
 
 - **HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection** \\
 <u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, and Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2502.11948" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> 
+<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=494k7e9R5D" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> 
 <span style="color: #3700FF">**TMLR**</span> 2025
 
 - **Position: Challenges and Future Directions of Data-Centric AI Alignment** \\
 <u>Min-Hsuan Yeh</u>, Jeffrey Wang, Xuefeng Du, Seongheon Park, Leitian Tao, Shawn Im, and Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2410.01957" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
+<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=bXfF6Dqe9s" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
 <!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
 <span style="color:darkred">**ICML**</span> 2025 Position Track
 
-- **How to Steer LLM Latents for Hallucination Detection?** \\
+- **Steer LLM Latents for Hallucination Detection** \\
 Seongheon Park, Xuefeng Du, <u>Min-Hsuan Yeh</u>, Haobo Wang, and Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2503.01917" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
+<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=UMqNQEPNT3" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
 <!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
 <span style="color:darkred">**ICML**</span> 2025
 
@@ -80,6 +80,7 @@ CKAIA 2023 -->
 ## Preprints
 - **LUMINA: Detecting Hallucinations in RAG System with Context--Knowledge Signals** \\
 <u>Min-Hsuan Yeh</u>, Yixuan Li, and Tanwi Mallick
+<a target="_blank" rel="noopener noreferrer" href="https://www.arxiv.org/pdf/2509.21875" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 
 - **Cognition-of-Thought Elicits Social-Aligned Reasoning in Large Language Models** \\
 Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li
