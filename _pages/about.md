@@ -23,6 +23,7 @@ Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li
 
 - **Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment** \\
 <u>Min-Hsuan Yeh</u> and Yixuan Li
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2509.23564" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/PrefCleanBench" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2025 Datasets and Benchmarks Track
 
 - **HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection** \\
@@ -84,6 +85,7 @@ CKAIA 2023 -->
 
 - **Cognition-of-Thought Elicits Social-Aligned Reasoning in Large Language Models** \\
 Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2509.23441" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 
 - **Simulating and Understanding Deceptive Behaviors in Long-Horizon Interactions** \\
 Yang Xu, Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Jwala Dhamala, Ousmane Dia, Rahul Gupta, and Yixuan Li
