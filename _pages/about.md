@@ -17,18 +17,18 @@ I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
 
 - **MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems** \\
-Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li
+Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li\\
 <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2505.18943" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2025 **(Spotlight)**
 
 - **Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment** \\
-<u>Min-Hsuan Yeh</u> and Yixuan Li
+<u>Min-Hsuan Yeh</u> and Yixuan Li\\
 <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2509.23564" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/PrefCleanBench" style="color: #009B8B; text-decoration: none;">[code]</a> \\
 <span style="color:darkred">**NeurIPS**</span> 2025 Datasets and Benchmarks Track
 
 - **HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection** \\
 <u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, and Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=494k7e9R5D" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> 
+<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=494k7e9R5D" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> \\
 <span style="color: #3700FF">**TMLR**</span> 2025
 
 - **Position: Challenges and Future Directions of Data-Centric AI Alignment** \\
@@ -80,12 +80,12 @@ CKAIA 2023 -->
 
 ## Preprints
 - **LUMINA: Detecting Hallucinations in RAG System with Context--Knowledge Signals** \\
-<u>Min-Hsuan Yeh</u>, Yixuan Li, and Tanwi Mallick
-<a target="_blank" rel="noopener noreferrer" href="https://www.arxiv.org/pdf/2509.21875" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+<u>Min-Hsuan Yeh</u>, Yixuan Li, and Tanwi Mallick\\
+<a target="_blank" rel="noopener noreferrer" href="https://www.arxiv.org/pdf/2509.21875" style="color: #009B8B; text-decoration: none;">[paper]</a> 
 
 - **Cognition-of-Thought Elicits Social-Aligned Reasoning in Large Language Models** \\
-Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2509.23441" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
+Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li\\
+<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2509.23441" style="color: #009B8B; text-decoration: none;">[paper]</a> 
 
 - **Simulating and Understanding Deceptive Behaviors in Long-Horizon Interactions** \\
 Yang Xu, Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Jwala Dhamala, Ousmane Dia, Rahul Gupta, and Yixuan Li
