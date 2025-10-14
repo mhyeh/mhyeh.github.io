@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min-Hsuan (Samuel) Yeh"
+title                    : "Samuel (Min-Hsuan) Yeh"
 title_separator          : "-"
-name                     : &name "Min-Hsuan (Samuel) Yeh"
+name                     : &name "Samuel (Min-Hsuan) Yeh"
 description              : &description "CS Ph.D. student at UW-Madison"
 url                      : https://mhyeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min-Hsuan (Samuel) Yeh"
+  name             : "Samuel (Min-Hsuan) Yeh"
   avatar           : "IMG_0990.jpg"
   bio              : "CS Ph.D. student at UW-Madison."
   location         : "WI, United States"
