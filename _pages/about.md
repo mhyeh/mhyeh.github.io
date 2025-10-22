@@ -19,7 +19,7 @@ I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas
 - **MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems** \\
 Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li\\
 <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2505.18943" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2025 **(Spotlight)**
+<span style="color:darkred">**NeurIPS**</span> 2025 **Spotlight**
 
 - **Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment** \\
 <u>Min-Hsuan Yeh</u> and Yixuan Li\\
@@ -29,7 +29,7 @@ Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li\\
 - **HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection** \\
 <u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, and Yixuan Li \\
 <a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=494k7e9R5D" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> \\
-<span style="color: #3700FF">**TMLR**</span> 2025
+<span style="color: #3700FF">**TMLR**</span> 2025 **J2C Certification (Top 10%)**
 
 - **Position: Challenges and Future Directions of Data-Centric AI Alignment** \\
 <u>Min-Hsuan Yeh</u>, Jeffrey Wang, Xuefeng Du, Seongheon Park, Leitian Tao, Shawn Im, and Yixuan Li \\
