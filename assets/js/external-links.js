@@ -1,11 +1,17 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const links = document.querySelectorAll('a[href^="http"]');
+  document.querySelectorAll("a[href]").forEach(link => {
+    const href = link.getAttribute("href");
 
-  links.forEach(link => {
+    if (!href || href.startsWith("#") || href.startsWith("javascript:")) return;
+
     const isExternal =
+      href.startsWith("http") &&
       link.hostname !== window.location.hostname;
 
-    if (isExternal) {
+    const isPdf =
+      href.toLowerCase().endsWith(".pdf");
+
+    if (isExternal || isPdf) {
       link.setAttribute("target", "_blank");
       link.setAttribute("rel", "noopener noreferrer");
     }
