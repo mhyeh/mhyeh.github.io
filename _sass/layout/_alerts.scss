@@ -1,0 +1,56 @@
+/* Alert blockquotes override academicpages defaults */
+blockquote.alert {
+  border-left-width: 0.25rem;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-style: normal;
+  color: var(--global-text-color);
+}
+
+/* Remove nested blockquote styling issues */
+blockquote.alert p {
+  margin: 0.25rem 0;
+}
+
+blockquote.alert p:first-child {
+  margin-top: 0;
+}
+
+blockquote.alert strong {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+$alert-colors: (
+  note: (var(--global-masthead-link-color-hover), $lighter-primary-color),
+  tip: (#1a7f37, #dafbe1),
+  warning: (#9a6700, #fff8c5),
+  important: (#cf222e, #ffebe9)
+);
+
+.alert {
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-left: 0.25rem solid;
+  border-radius: 0.375rem;
+  background-color: var(--global-bg-color);
+  font-size: 0.95rem;
+
+  strong {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-weight: 600;
+  }
+}
+
+@each $name, $colors in $alert-colors {
+  .alert-#{$name} {
+    border-color: nth($colors, 1);
+    background-color: nth($colors, 2);
+
+    strong {
+      color: nth($colors, 1);
+    }
+  }
+}

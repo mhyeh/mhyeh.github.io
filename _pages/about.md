@@ -1,113 +1,86 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sitemap: true
 ---
 
-Hi! I'm a second year CS Ph.D. student at UW-Madison advised by Prof. [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). My research interests are reliable machine learning and hallucination detection.
 
-I've also worked with Prof. [Philip Thomas](https://people.cs.umass.edu/~pthomas/) as a Master's student at UMass-Amherst, and with Dr. [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) as a research assistant at the Natural Language Processing and Sentiment Analysis [(NLPSA)](https://academiasinicanlplab.github.io/) Lab at Academia Sinica, Taiwan. 
+I am a 2nd-year Ph.D. student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) Computer Sciences department. I am advised by Professor [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). 
 
-## Publication
+My research focuses on building reliable and trustworthy AI systems, with an emphasis on data-centric alignment and hallucination robustness in large language models (LLMs). I study how the quality and structure of training and evaluation data impact alignment outcomes, and develop benchmarks and methods to detect hallucinations under challenging settings, such as long-form generations and retrieval-augmented generations. 
 
-(<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
+## Research Interests
 
-- **MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems** \\
-Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li\\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2505.18943" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2025 **Spotlight**
+- Relaible Machine Learning
+- Hallucination Detection
+- Data-centric AI Alignment
 
-- **Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment** \\
-<u>Min-Hsuan Yeh</u> and Yixuan Li\\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2509.23564" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/deeplearning-wisc/PrefCleanBench" style="color: #009B8B; text-decoration: none;">[code]</a> \\
-<span style="color:darkred">**NeurIPS**</span> 2025 Datasets and Benchmarks Track
+ ***📌 I am actively seeking internship opportunities for 2026 Summer!***
 
-- **HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection** \\
-<u>Min-Hsuan Yeh</u>, Max Kamachee, Seongheon Park, and Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=494k7e9R5D" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://huggingface.co/datasets/samuelyeh/HalluEntity" style="color: #009B8B; text-decoration: none;">[dataset]</a> \\
-<span style="color: #3700FF">**TMLR**</span> 2025 **J2C Certification (Top 10%)**
-
-- **Position: Challenges and Future Directions of Data-Centric AI Alignment** \\
-<u>Min-Hsuan Yeh</u>, Jeffrey Wang, Xuefeng Du, Seongheon Park, Leitian Tao, Shawn Im, and Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=bXfF6Dqe9s" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
-<!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
-<span style="color:darkred">**ICML**</span> 2025 Position Track
-
-- **Steer LLM Latents for Hallucination Detection** \\
-Seongheon Park, Xuefeng Du, <u>Min-Hsuan Yeh</u>, Haobo Wang, and Yixuan Li \\
-<a target="_blank" rel="noopener noreferrer" href="https://openreview.net/pdf?id=UMqNQEPNT3" style="color: #009B8B; text-decoration: none;">[paper]</a>\\
-<!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
-<span style="color:darkred">**ICML**</span> 2025
-
-- **COCOLOFA: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds** \\
-<u>Min-Hsuan Yeh</u>, Ruyuan Wan, and Ting-Hao 'Kenneth' Huang \\
-<a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2024.emnlp-main.39/" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Crowd-AI-Lab/cocolofa/" style="color: #009B8B; text-decoration: none;">[dataset]</a>\\
-<!-- <a href="https://arxiv.org/abs/2311.01723" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/MLAI-Yonsei/CaRot" style="color: #009B8B; text-decoration: none;">[code]</a> \\ -->
-<span style="color:darkred">**EMNLP**</span> 2024
-
-- **Analyzing the Relationship Between Difference and Ratio-Based Fairness Metrics** \\
-<u>Min-Hsuan Yeh</u>, Blossom Metevier, Austin Hoag, and Philip Thomas \\
-<a target="_blank" rel="noopener noreferrer" href="https://dl.acm.org/doi/pdf/10.1145/3630106.3658922" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**FAccT**</span> 2024
-<!-- -- <span style="color:red">_Oral presentation_</span> -->
-
-- **Multi-VQG: Generating Engaging Questions for Multiple Images** \\
-<u>Min-Hsuan Yeh</u>, Vincent Chen, Ting-Hao 'Kenneth' Huang, and Lun-Wei Ku \\
-<a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2022.emnlp-main.19.pdf" style="color: #009B8B; text-decoration: none;">[paper]</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/AcademiaSinicaNLPLab/Multi-VQG" style="color: #009B8B; text-decoration: none;">[dataset]</a> \\
-<span style="color:darkred">**EMNLP**</span> 2022
-
-- **Lying Through One’s Teeth: A Study on Verbal Leakage Cues** \\
-<u>Min-Hsuan Yeh</u> and Lun-Wei Ku \\
-<a target="_blank" rel="noopener noreferrer" href="https://aclanthology.org/2021.emnlp-main.370.pdf" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
-<span style="color:darkred">**EMNLP**</span> 2021
+> **📢 News**
+> [09.18.2025] Our paper on [Preference Data Cleaning](https://openreview.net/pdf?id=Qa4ADWDTIY) has been accepted at NeurIPS 2025! 🎉
+{: .alert .alert-note}
 
 
-<!-- ## Publication (Domestic)
-- **Pre-trained Models Ensembling for Domain Generalization in Chemistry Classification** \\
-Jinho Kang, Taero Kim, Yewon Kim, <u>Changdae Oh</u>, Jiyoung Jung, Rakwoo Chang, Kyungwoo Song \\
-CKAIA 2023 -->
 
-<!--   , <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%)  -->
+## Selected Publications
 
-<!-- ## Domestic Conference Publication
+Full list of publications in [Publications](/publications), and see [Google Scholar](https://scholar.google.com/citations?hl=en&user=GXSualcAAAAJ) for the most updated list.
 
-## Workshop Publication
- -->
-
-## Preprints
-- **LUMINA: Detecting Hallucinations in RAG System with Context--Knowledge Signals** \\
-<u>Min-Hsuan Yeh</u>, Yixuan Li, and Tanwi Mallick\\
-<a target="_blank" rel="noopener noreferrer" href="https://www.arxiv.org/pdf/2509.21875" style="color: #009B8B; text-decoration: none;">[paper]</a> 
-
-- **Cognition-of-Thought Elicits Social-Aligned Reasoning in Large Language Models** \\
-Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, and Yixuan Li\\
-<a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2509.23441" style="color: #009B8B; text-decoration: none;">[paper]</a> 
-
-- **Simulating and Understanding Deceptive Behaviors in Long-Horizon Interactions** \\
-Yang Xu, Xuanming Zhang, Yuxuan Chen, <u>Min-Hsuan Yeh</u>, Jwala Dhamala, Ousmane Dia, Rahul Gupta, and Yixuan Li
+- [Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment](https://openreview.net/pdf?id=Qa4ADWDTIY)<br>
+  **Samuel Yeh**, Sharon Li<br>
+  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025 
+- [HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D)<br>
+  **Min-Hsuan Yeh**, Max Kamachee, Seongheon Park, and Yixuan Li<br>
+  *International Conference on Machine Learning* (**ICML**), 2025 
+- [Position: Challenges and Future Directions of Data-Centric AI Alignment](https://openreview.net/pdf?id=bXfF6Dqe9s)<br>
+  **Min-Hsuan Yeh**, Jeffrey Wang, Xuefeng Du, Seongheon Park, Leitian Tao, Shawn Im, and Yixuan Li<br>
+  *Transactions on Machine Learning Research* (**TMLR**) **J2C Certification**, 2025 
 
 ## Education
-- **Ph.D.** in Computer Science, <a href="https://www.cs.wisc.edu/" style="color: #009B8B; text-decoration: none;">**University of Wisconsin-Madison**</a> \\
-Advisor: Prof. <a href="https://pages.cs.wisc.edu/~sharonli/" style="color: #009B8B; text-decoration:none">**Sharon Yixuan Li**</a> \\
-Sep. 2024 - Present
 
-- **M.S.** in Computer Science, <a href="https://www.cics.umass.edu/" style="color: #009B8B; text-decoration: none;">**University of Massachusetts-Amherst**</a> \\
-Sep. 2022 - May 2024
+- **Ph.D.** in Computer Science, [University of Wisconsin-Madison](https://www.cs.wisc.edu/)<br>
+  Advisor: Prof. [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html)<br>
+  Sep. 2024 - Present
 
-- **B.S.** in Computer Science, <a href="https://www.ntust.edu.tw/?Lang=en" style="color: #009B8B; text-decoration: none;">**National Taiwan University of Science and Technology**</a> \\
-Sep. 2016 - Jan. 2020
+- **M.S.** in Computer Science, [University of Massachusetts-Amherst](https://www.cics.umass.edu/)<br>
+  Sep. 2022 - May 2024
+
+- **B.S.** in Computer Science, [National Taiwan University of Science and Technology](https://www.ntust.edu.tw/?Lang=en)<br>
+  Sep. 2016 - Jan. 2020
 
 ## Experience
-* ***W.J. Cody Associates***, **Argonne National Laboratory** \\
-Supervisor: Dr. <a href="https://www.anl.gov/profile/tanwi-mallick" style="color: #009B8B; text-decoration:none">**Tanwi Mallick**</a>, May. 2025 - Jul. 2025
-* ***Research Assistant Intern***, <a href="https://crowd.ist.psu.edu/crowd-ai-lab.html" style="color: #009B8B; text-decoration: none;">**CrowdAI Lab**</a> \\
-Advisor: Prof. <a href="https://crowd.ist.psu.edu/index.html" style="color: #009B8B; text-decoration:none">**Ting-Hao 'Kenneth' Huang**</a>, Jun. 2023 - Feb. 2024
-* ***Research Assistant***, <a href="https://academiasinicanlplab.github.io/" style="color: #009B8B; text-decoration: none;">**NLPSA**</a>, **Academia Sinica** \\
-Advisor: Prof. <a href="https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html" style="color: #009B8B; text-decoration:none">**Lun-Wei Ku**</a>, May 2020 - Jul. 2022
 
-## Academic Services 
-- Conference Reviewer: COLING'25, ICLR'25, ACL'25, ACL'24, COLING'24
+- **W.J. Cody Associates**, [Argonne National Laboratory](https://www.anl.gov/mcs)<br>
+  Supervisor: Dr. [Tanwi Mallick](https://www.anl.gov/profile/tanwi-mallick), May. 2025 - Jul. 2025
+
+- **Research Assistant Intern**, [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), Penn State University<br>
+  Supervisor: Prof. [Ting-Hao ‘Kenneth’ Huang](https://crowd.ist.psu.edu/index.html), Jun. 2023 - Feb. 2024
+
+- **Research Assistant**, [NLPSA](https://academiasinicanlplab.github.io/), Academia Sinica<br>
+  Supervisor: Prof. [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html), May 2020 - Jul. 2022
+
+## Academic Services
+
+Conference Reviewer
+- ICLR: '25, '26
+- ACL: '24, '25
+- COLING: '24, '25
+- AAAI: '22
+
+## Misc.
+
+I am a ramen and coffee lover.
+
+Hobbies:
+
+- Roasting coffee
+- Making pour-over coffee
+- Crocheting
+- Cooking
+- Table tennis
+- Badminton

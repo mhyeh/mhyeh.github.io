@@ -2,6 +2,7 @@
 title: "Archive Layout with Content"
 layout: archive
 permalink: /archive-layout-with-content/
+sitemap: false
 ---
 
 A variety of common markup showing how the theme styles them.
@@ -105,7 +106,7 @@ Make any link standout more when applying the `.btn` class.
 
 ### Anchor Tag (aka. Link)
 
-This is an example of a [link](http://github.com "Github").
+This is an example of a [link](https://github.com "GitHub").
 
 ### Abbreviation Tag
 
