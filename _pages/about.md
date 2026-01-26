@@ -22,6 +22,10 @@ My research focuses on building reliable and trustworthy AI systems, with an emp
  ***📌 I am actively seeking internship opportunities for 2026 Summer!***
 
 > **📢 News**
+> [01.26.2026] Our two papers on [Hallucination in RAG](https://openreview.net/pdf?id=oJgNNBNEJM) and [LLM Deception](https://openreview.net/pdf?id=2r10vpYiti) has been accepted at ICLR 2026! 🎉
+> 
+> [10.21.2025] Our TMLR paper on [Entity-level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D) has been awarded a [J2C Certification](https://jmlr.org/tmlr/editorial-policies.html#certifications) and will be presented at ICLR 2026! 🎉
+> 
 > [09.18.2025] Our paper on [Preference Data Cleaning](https://openreview.net/pdf?id=Qa4ADWDTIY) has been accepted at NeurIPS 2025! 🎉
 {: .alert .alert-note}
 
@@ -31,15 +35,18 @@ My research focuses on building reliable and trustworthy AI systems, with an emp
 
 Full list of publications in [Publications](/publications), and see [Google Scholar](https://scholar.google.com/citations?hl=en&user=GXSualcAAAAJ) for the most updated list.
 
+- [LUMINA: Detecting Hallucinations in RAG System with Context–Knowledge Signals](https://openreview.net/pdf?id=oJgNNBNEJM)<br>
+  **Samuel Yeh**, Sharon Li, and Tanwi Mallick<br>
+  *International Conference on Learning Representations* (**ICLR**), 2026 
+- [Simulating and Understanding Deceptive Behaviors in Long-Horizon Interactions](https://openreview.net/pdf?id=2r10vpYiti)<br>
+  Yang Xu, Xuanming Zhang, **Samuel Yeh**, Jwala Dhamala, Ousmane Dia, Rahul Gupta, and Sharon Li<br>
+  *International Conference on Learning Representations* (**ICLR**), 2026 
 - [Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment](https://openreview.net/pdf?id=Qa4ADWDTIY)<br>
   **Samuel Yeh**, Sharon Li<br>
   *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025 
 - [HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D)<br>
   **Min-Hsuan Yeh**, Max Kamachee, Seongheon Park, and Yixuan Li<br>
-  *International Conference on Machine Learning* (**ICML**), 2025 
-- [Position: Challenges and Future Directions of Data-Centric AI Alignment](https://openreview.net/pdf?id=bXfF6Dqe9s)<br>
-  **Min-Hsuan Yeh**, Jeffrey Wang, Xuefeng Du, Seongheon Park, Leitian Tao, Shawn Im, and Yixuan Li<br>
-  *Transactions on Machine Learning Research* (**TMLR**) **J2C Certification**, 2025 
+  *Transactions on Machine Learning Research* (**TMLR**), 2025, J2C Certification
 
 ## Education
 

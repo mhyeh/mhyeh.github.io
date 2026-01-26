@@ -1,12 +1,11 @@
 ---
 title: "LUMINA: Detecting Hallucinations in RAG System with Context–Knowledge Signals"
 collection: publications
-category: workshop
-date: 2025-11-08
-venue: '*Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025*'
-link: 'https://openreview.net/pdf?id=fRUW4qbET3'
+category: conferences
+date: 2026-01-26
+venue: '*The Fourteenth International Conference on Learning Representations*'
+link: 'https://openreview.net/pdf?id=oJgNNBNEJM'
 authors: '**Samuel Yeh**, Sharon Li, and Tanwi Mallick'
 header:
     teaser: 'publications/lumina.png'
 ---
-
