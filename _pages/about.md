@@ -11,7 +11,7 @@ sitemap: true
 
 I am a 2nd-year Ph.D. student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) Computer Sciences department. I am advised by Professor [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). 
 
-My research focuses on building reliable and trustworthy AI systems, with an emphasis on data-centric alignment and hallucination detection in large language models (LLMs). I study how preference feedback data impact alignment, and develop benchmarks and methods to detect hallucinations under challenging settings, such as long-form generations and retrieval-augmented generations. 
+My research centers on developing reliable and trustworthy AI systems, with a particular focus on data-centric alignment and hallucination detection in large language models (LLMs). I investigate how preference feedback data influence alignment, and I design benchmarks and methodologies to detect hallucinations in challenging scenarios—such as long-form text generation and retrieval-augmented generation.
 
 ## Research Interests
 
