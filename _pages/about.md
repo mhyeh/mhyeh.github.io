@@ -15,7 +15,7 @@ My research centers on developing reliable and trustworthy AI systems, with a pa
 
 ## Research Interests
 
-- Relaible Machine Learning
+- Reliable Machine Learning
 - Hallucination Detection
 - Data-centric AI Alignment
 
