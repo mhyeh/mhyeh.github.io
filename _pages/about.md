@@ -22,11 +22,11 @@ My research centers on developing reliable and trustworthy AI systems, with a pa
  ***📌 I am actively seeking internship opportunities for 2026 Summer!***
 
 > **📢 News**
+> [04.07.2026] Our two papers on [Analysis of RAG Systems](https://openreview.net/forum?id=vBeUi4ka1j) and [Uncertainty Quantification for Agentic Systems](https://openreview.net/forum?id=rxtSr4EsDY) has been accepted at ACL 2026! 🎉
+> 
 > [01.26.2026] Our two papers on [Hallucination in RAG](https://openreview.net/pdf?id=oJgNNBNEJM) and [LLM Deception](https://openreview.net/pdf?id=2r10vpYiti) has been accepted at ICLR 2026! 🎉
 > 
 > [10.21.2025] Our TMLR paper on [Entity-level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D) has been awarded a [J2C Certification](https://jmlr.org/tmlr/editorial-policies.html#certifications) and will be presented at ICLR 2026! 🎉
-> 
-> [09.18.2025] Our paper on [Preference Data Cleaning](https://openreview.net/pdf?id=Qa4ADWDTIY) has been accepted at NeurIPS 2025! 🎉
 {: .alert .alert-note}
 
 
@@ -35,15 +35,18 @@ My research centers on developing reliable and trustworthy AI systems, with a pa
 
 Full list of publications in [Publications](/publications), and see [Google Scholar](https://scholar.google.com/citations?hl=en&user=GXSualcAAAAJ) for the most updated list.
 
+- [How Retrieved Context Shapes Internal Representations in RAG](https://openreview.net/forum?id=vBeUi4ka1j)<br>
+  **Samuel Yeh** and Sharon Li<br>
+  *The 64th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2026 
+- [Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents](https://openreview.net/forum?id=rxtSr4EsDY)<br>
+  Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, **Samuel Yeh**, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li<br>
+  *The 64th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2026 
 - [LUMINA: Detecting Hallucinations in RAG System with Context–Knowledge Signals](https://openreview.net/pdf?id=oJgNNBNEJM)<br>
   **Samuel Yeh**, Sharon Li, and Tanwi Mallick<br>
   *International Conference on Learning Representations* (**ICLR**), 2026 
 - [Simulating and Understanding Deceptive Behaviors in Long-Horizon Interactions](https://openreview.net/pdf?id=2r10vpYiti)<br>
   Yang Xu, Xuanming Zhang, **Samuel Yeh**, Jwala Dhamala, Ousmane Dia, Rahul Gupta, and Sharon Li<br>
   *International Conference on Learning Representations* (**ICLR**), 2026 
-- [Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment](https://openreview.net/pdf?id=Qa4ADWDTIY)<br>
-  **Samuel Yeh**, Sharon Li<br>
-  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2025 
 - [HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D)<br>
   **Min-Hsuan Yeh**, Max Kamachee, Seongheon Park, and Yixuan Li<br>
   *Transactions on Machine Learning Research* (**TMLR**), 2025, J2C Certification
