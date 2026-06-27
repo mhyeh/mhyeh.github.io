@@ -77,6 +77,7 @@ Full list of publications in [Publications](/publications), and see [Google Scho
 ## Academic Services
 
 Conference Reviewer
+- NeurIPS: '26
 - ICLR: '26
 - ACL: '24, '25, '26
 - COLING: '24, '25
