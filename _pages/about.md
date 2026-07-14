@@ -9,7 +9,7 @@ sitemap: true
 ---
 
 
-I am a 2nd-year Ph.D. student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) Computer Sciences department. I am advised by Professor [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). 
+I am a 3rd-year Ph.D. student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) Computer Sciences department. I am advised by Professor [Sharon Li](https://pages.cs.wisc.edu/~sharonli/index.html). 
 
 My research centers on developing reliable and trustworthy AI systems, with a particular focus on data-centric alignment and hallucination detection in large language models (LLMs). I investigate how preference feedback data influence alignment, and I design benchmarks and methodologies to detect hallucinations in challenging scenarios—such as long-form text generation and retrieval-augmented generation.
 
@@ -19,7 +19,7 @@ My research centers on developing reliable and trustworthy AI systems, with a pa
 - Hallucination Detection
 - Data-centric AI Alignment
 
- ***📌 I am actively seeking internship opportunities for 2026 Summer!***
+ ***📌 I am actively seeking internship opportunities for 2027 Summer!***
 
 > **📢 News**
 > [04.07.2026] Our two papers on [Analysis of RAG Systems](https://openreview.net/forum?id=vBeUi4ka1j) and [Uncertainty Quantification for Agentic Systems](https://openreview.net/forum?id=rxtSr4EsDY) has been accepted at ACL 2026! 🎉
@@ -93,6 +93,6 @@ Hobbies:
 - Making pour-over coffee
 - Crocheting
 - Cooking
-- Table tennis
+- Biking
 - Badminton
 - Maintaining [my wife's website](https://alicehsu.blog/)
