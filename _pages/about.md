@@ -44,7 +44,7 @@ Full list of publications in [Publications](/publications), and see [Google Scho
 - [LUMINA: Detecting Hallucinations in RAG System with Context–Knowledge Signals](https://openreview.net/pdf?id=oJgNNBNEJM)<br>
   **Samuel Yeh**, Sharon Li, and Tanwi Mallick<br>
   *International Conference on Learning Representations* (**ICLR**), 2026 
-- [Simulating and Understanding Deceptive Behaviors in Long-Horizon Interactions](https://openreview.net/pdf?id=2r10vpYiti)<br>
+- [LH-DECEPTION: Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions](https://openreview.net/pdf?id=2r10vpYiti)<br>
   Yang Xu, Xuanming Zhang, **Samuel Yeh**, Jwala Dhamala, Ousmane Dia, Rahul Gupta, and Sharon Li<br>
   *International Conference on Learning Representations* (**ICLR**), 2026 
 - [HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D)<br>

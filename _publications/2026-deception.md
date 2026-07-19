@@ -1,5 +1,5 @@
 ---
-title: "Simulating and Understanding Deceptive Behaviors in Long-Horizon Interactions"
+title: "LH-DECEPTION: Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions"
 collection: publications
 category: conferences
 date: 2026-01-26
