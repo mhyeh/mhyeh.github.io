@@ -35,10 +35,10 @@ My research centers on developing reliable and trustworthy AI systems, with a pa
 
 Full list of publications in [Publications](/publications), and see [Google Scholar](https://scholar.google.com/citations?hl=en&user=GXSualcAAAAJ) for the most updated list.
 
-- [How Retrieved Context Shapes Internal Representations in RAG](https://openreview.net/forum?id=vBeUi4ka1j)<br>
+- [How Retrieved Context Shapes Internal Representations in RAG](https://aclanthology.org/2026.findings-acl.758.pdf)<br>
   **Samuel Yeh** and Sharon Li<br>
-  *The 64th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2026 
-- [Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents](https://openreview.net/forum?id=rxtSr4EsDY)<br>
+  *Findings of the Association for Computational Linguistics: ACL 2026* (**ACL Findings**), 2026 
+- [Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities](https://aclanthology.org/2026.acl-long.738.pdf)<br>
   Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, **Samuel Yeh**, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li<br>
   *The 64th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2026 
 - [LUMINA: Detecting Hallucinations in RAG System with Context–Knowledge Signals](https://openreview.net/pdf?id=oJgNNBNEJM)<br>
