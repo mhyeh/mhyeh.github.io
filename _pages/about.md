@@ -65,6 +65,10 @@ Full list of publications in [Publications](/publications), and see [Google Scho
 
 ## Experience
 
+
+- **Research Assistant**, [Microsoft Research](https://www.microsoft.com/en-us/research/group/gray-systems-lab/)<br>
+  Supervisor: [Shaleen Deep](https://www.microsoft.com/en-us/research/people/shaleendeep/), Jan. 2026 - May. 2026
+
 - **W.J. Cody Associates**, [Argonne National Laboratory](https://www.anl.gov/mcs)<br>
   Supervisor: Dr. [Tanwi Mallick](https://www.anl.gov/profile/tanwi-mallick), May. 2025 - Jul. 2025
 
