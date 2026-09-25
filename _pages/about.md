@@ -86,7 +86,6 @@ Conference Reviewer
 - ICLR: '25, '26
 - ACL: '24, '25, '26
 - COLING: '24, '25
-- AAAI: '22
 
 ## Misc.
 
