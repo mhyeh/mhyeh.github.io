@@ -22,11 +22,9 @@ My research centers on developing reliable and trustworthy AI systems, with a pa
  ***📌 I am actively seeking internship opportunities for 2027 Summer!***
 
 > **📢 News**
-> [04.07.2026] Our two papers on [Analysis of RAG Systems](https://openreview.net/forum?id=vBeUi4ka1j) and [Uncertainty Quantification for Agentic Systems](https://openreview.net/forum?id=rxtSr4EsDY) has been accepted at ACL 2026! 🎉
+> [09.24.2026] Four of my papers ([Failure attribution for AI agents](https://arxiv.org/pdf/2607.12747), [Multi-head recurrent memory agents](https://arxiv.org/pdf/2607.01523), [Progress advantage for agents](https://arxiv.org/pdf/2606.26080), and [VLA runtime monitoring](https://arxiv.org/pdf/2605.30834)) have been accepted at NeurIPS 2026! 🎉
 > 
-> [01.26.2026] Our two papers on [Hallucination in RAG](https://openreview.net/pdf?id=oJgNNBNEJM) and [LLM Deception](https://openreview.net/pdf?id=2r10vpYiti) has been accepted at ICLR 2026! 🎉
-> 
-> [10.21.2025] Our TMLR paper on [Entity-level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D) has been awarded a [J2C Certification](https://jmlr.org/tmlr/editorial-policies.html#certifications) and will be presented at ICLR 2026! 🎉
+> [04.07.2026] Two of my papers ([Analysis of RAG Systems](https://aclanthology.org/2026.findings-acl.758.pdf) and [Uncertainty Quantification for Agentic Systems](https://aclanthology.org/2026.acl-long.738.pdf)) have been accepted at ACL 2026! 🎉
 {: .alert .alert-note}
 
 
@@ -35,21 +33,24 @@ My research centers on developing reliable and trustworthy AI systems, with a pa
 
 Full list of publications in [Publications](/publications), and see [Google Scholar](https://scholar.google.com/citations?hl=en&user=GXSualcAAAAJ) for the most updated list.
 
+- [Tracing Agentic Failure from the Flow of Success](https://arxiv.org/pdf/2607.12747)<br>
+  **Samuel Yeh**, Yiwen Zhu, Shaleen Deep, and Sharon Li<br>
+  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026
+- [Multi-Head Recurrent Memory Agents](https://arxiv.org/pdf/2607.01523)<br>
+  Jiatong Li, **Samuel Yeh**, and Sharon Li<br>
+  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026
+- [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](https://arxiv.org/pdf/2606.26080)<br>
+  Changdae Oh, Wendi Li, Seongheon Park, **Samuel Yeh**, Tanwi Mallick, and Sharon Li<br>
+  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026
+- [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](https://arxiv.org/pdf/2605.30834)<br>
+  Seongheon Park, Wendi Li, Changdae Oh, **Samuel Yeh**, Zsolt Kira, Michael Hagenow, and Sharon Li<br>
+  *Advances in Neural Information Processing Systems* (**NeurIPS**), 2026
 - [How Retrieved Context Shapes Internal Representations in RAG](https://aclanthology.org/2026.findings-acl.758.pdf)<br>
   **Samuel Yeh** and Sharon Li<br>
   *Findings of the Association for Computational Linguistics: ACL 2026* (**ACL Findings**), 2026 
 - [Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities](https://aclanthology.org/2026.acl-long.738.pdf)<br>
   Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, **Samuel Yeh**, Xuefeng Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li<br>
   *The 64th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2026 
-- [LUMINA: Detecting Hallucinations in RAG System with Context–Knowledge Signals](https://openreview.net/pdf?id=oJgNNBNEJM)<br>
-  **Samuel Yeh**, Sharon Li, and Tanwi Mallick<br>
-  *International Conference on Learning Representations* (**ICLR**), 2026 
-- [LH-DECEPTION: Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions](https://openreview.net/pdf?id=2r10vpYiti)<br>
-  Yang Xu, Xuanming Zhang, **Samuel Yeh**, Jwala Dhamala, Ousmane Dia, Rahul Gupta, and Sharon Li<br>
-  *International Conference on Learning Representations* (**ICLR**), 2026 
-- [HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection](https://openreview.net/pdf?id=494k7e9R5D)<br>
-  **Min-Hsuan Yeh**, Max Kamachee, Seongheon Park, and Yixuan Li<br>
-  *Transactions on Machine Learning Research* (**TMLR**), 2025, J2C Certification
 
 ## Education
 
